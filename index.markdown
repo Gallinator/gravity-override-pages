@@ -10,22 +10,22 @@ layout: home
 
 <br/>
 
-<img src="/assets/S4_Text.jpeg" style="border-radius:10px;">
+<img src="{{site.baseurl | prepend: site.url}}/assets/S4_Text.jpeg" style="border-radius:10px;">
 
 <br/>
 
-<img src="/assets/S2_Text.jpeg" style="border-radius:10px;">
+<img src="{{site.baseurl | prepend: site.url}}/assets/S2_Text.jpeg" style="border-radius:10px;">
 
 <br/>
 
-<img src="/assets/S6_Text.jpeg" style="border-radius:10px;">
+<img src="{{site.baseurl | prepend: site.url}}/assets/S6_Text.jpeg" style="border-radius:10px;">
 
 <br/>
 
-<img src="/assets/S3_Text.jpeg" style="border-radius:10px;">
+<img src="{{site.baseurl | prepend: site.url}}/assets/S3_Text.jpeg" style="border-radius:10px;">
 
 <br/>
 
-<img src="/assets/S5_Text.jpeg" style="border-radius:10px;">
+<img src="{{site.baseurl | prepend: site.url}}/assets/S5_Text.jpeg" style="border-radius:10px;">
 
 <br/>
