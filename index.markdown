@@ -6,7 +6,7 @@ layout: home
 
 ---
 
-<img src="/assets/S1_Text.jpeg" style="border-radius:10px;">
+<img src="{{site.baseurl | prepend: site.url}}assets/S1_Text.jpeg" style="border-radius:10px;">
 
 <br/>
 
