@@ -5,6 +5,7 @@ permalink: /legal/privacy-en-06112026
 ---
 
 PURSUANT TO ARTICLE 13 OF EU REGULATION 27 APRIL 2016 NO. 679 (“GDPR”)
+
 APPLICATION: Gravity Override
 
 Last Updated: 06/11/2026
