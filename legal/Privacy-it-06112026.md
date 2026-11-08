@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Privacy Policy"
 permalink: /legal/privacy-it-06112026
 ---
 
