@@ -54,3 +54,11 @@ plugins:
 
 # Exclude italian terms
 exclude: ['Terms-it.md','legal/Terms-it-10042025.md','legal/Privacy-it-04112026.md']
+
+titles_from_headings:
+  enabled: false
+  
+minima:
+  nav_pages:
+    - legal/Terms-en-10042025.md
+    - legal/Privacy-en-06112026.md
