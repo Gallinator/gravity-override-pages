@@ -1,5 +1,4 @@
- 
-# TERMINI E CONDIZIONI D’USO
+
 DELL’APPLICAZIONE Gravity Override
 
 I presenti Termini e Condizioni d’Uso dell’Applicazione (di seguito Condizioni d’Uso) sono destinati a trovare applicazione con riguardo all’applicazione Gravity Override messa a disposizione da Ciceri Luigi, indirizzo di posta elettronica ordinaria dh.fr.android.game@gmail.com (di seguito “Concedente”), mediante piattaforma terza Google Play Store (di seguito “Piattaforma”), all’Utente che, a seguito di accettazione del presente documento dichiara di rispettare tutto quanto ivi riportato nella fruizione del servizio come di seguito descritto.
