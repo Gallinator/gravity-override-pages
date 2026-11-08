@@ -52,9 +52,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Exclude italian terms
-exclude: ['Terms-it.md','legal/Terms-it-10042025.md','legal/Privacy-it-04112026.md']
-
 titles_from_headings:
   enabled: false
   
