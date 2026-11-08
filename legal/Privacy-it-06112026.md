@@ -3,6 +3,8 @@ layout: page
 permalink: /legal/privacy-it-06112026
 ---
 
+# Privacy Policy
+
 AI SENSI DELL’ART. 13 REG. UE 27 APRILE 2016 N. 679 (“GDPR“)
 APPLICAZIONE Gravity Override
 
