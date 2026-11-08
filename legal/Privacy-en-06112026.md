@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Privacy Policy"
-permalink: /privacy-en-06112026
+permalink: /legal/privacy-en-06112026
 ---
 
 PURSUANT TO ARTICLE 13 OF EU REGULATION 27 APRIL 2016 NO. 679 (“GDPR”)
